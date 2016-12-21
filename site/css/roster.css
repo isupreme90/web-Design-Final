@@ -68,7 +68,7 @@ width: 100%;
  
  .square {
 	 background-color: white;
-	 height: 2000px;
+	 height: 3300px;
 	 width: 900px;
 	 margin-left: 150px;
    margin: auto;
@@ -142,35 +142,33 @@ li.dropdown {
   width: 300px;
   height: 300px;
   overflow: hidden;
-  display: inline-block;
-  margin: 0 40px 0 0;
+  margin-left: 300px;
 }
 
 .sdc{
   color: blue;
   font-size: 1.500em;
-  font-family: helvetica;
-  margin-left: 220px;
+  font-family: verdana;
+  margin-left: 350px;
 }
 
 .raw{
   color: red;
   font-size: 1.500em;
-  font-family: helvetica;
-  margin-left: 220px;
+  font-family: verdana;
+  margin-left: 400px;
 }
 
 .raw1 {
   position: relative;
   font-size: 0.750em;
-  font-family: arial;
+  font-family: verdana;
   color: black;
   text-align: center;
   width: 300px;
   height: 300px;
   overflow: hidden;
-  display: inline-block;
-  margin: 0 40px 0 0;
+  margin-left: 300px;
 }
 
 .nd {
